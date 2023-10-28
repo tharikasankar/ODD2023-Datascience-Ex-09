@@ -19,7 +19,7 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Name: THharika S
+Name: Tharika S
 Reg : 212222230159
 
 import seaborn as sns
